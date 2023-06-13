@@ -9,15 +9,13 @@
 
  ### My technology stack is:
 
-Java,Gradle,Selenide,Junit5,Jenkins,Allure Report,Allure Testops
-
+Java, Gradle, Selenide, Junit5, Jenkins, Allure Framework
+ 
  #### My study projects for [qa guru](https://qa.guru/) school of automated testing  :mortar_board:
-  
-
+ 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SLomako&repo=github-tester&theme=solarized-light)](https://github.com/Slomako/github-tester)
 
  
 ### You can find me on:
 
-+  Email - lomakosv@gmail.com
 +  Telegram - https://t.me/lom14
