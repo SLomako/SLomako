@@ -11,7 +11,7 @@
 
 Java, Gradle, Selenide, Junit5, Jenkins, Allure Framework
  
- #### My study projects for [qa guru](https://qa.guru/) school of automated testing  :mortar_board:
+ #### My training projects for the school of automated testing [qa guru](https://qa.guru/)
  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SLomako&repo=github-tester&theme=solarized-light)](https://github.com/Slomako/github-tester)
 
