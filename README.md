@@ -14,7 +14,7 @@ Java,Gradle,Selenide,Junit5,Jenkins,Allure Report,Allure Testops
  #### My study projects for [qa guru](https://qa.guru/) school of automated testing  :mortar_board:
   
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SLomakosv&repo=github-tester&theme=solarized-light)](https://github.com/Slomako/github-tester)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SLomako&repo=github-tester&theme=solarized-light)](https://github.com/Slomako/github-tester)
 
  
 ### You can find me on:
