@@ -9,7 +9,7 @@
 
  ### My technology stack is:
 
-Java, Gradle, Selenide, Junit5, Jenkins, Allure Framework
+Java, Gradle, Selenide, Junit5, REST Assured, Jenkins, Allure Framework
  
  #### My training projects for the school of automated testing [qa guru](https://qa.guru/)
  
