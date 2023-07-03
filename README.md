@@ -1,5 +1,5 @@
 <h1>Hi there, I'm <a href="(https://github.com/AlyonaEfros)" target="_blank">Sergei</a> 
-<h3>Junior QA Automation Engineer</h3>
+<h3>Java QA Automation Engineer</h3>
 
 <!--
 **SLomako/SLomako** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
